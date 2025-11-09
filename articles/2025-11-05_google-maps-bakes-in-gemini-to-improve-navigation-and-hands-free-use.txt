@@ -1,0 +1,18 @@
+Date: 6:00 AM PST · November 5, 2025
+
+Headline: Google Maps bakes in Gemini to improve navigation and hands-free use
+
+Text Body:
+Over the last year, Google has added multiple AI-powered features to Maps to improve discovery and enable users to ask questions about places. Now the company is upgrading the app with Gemini to let users ask its AI bot questions while driving, improve navigation, and perform more tasks.
+
+You can ask multiple questions in a conversation, too; for example, “Is there a budget-friendly restaurant with vegan options along my route, something within a couple of miles? … What’s parking like there?”
+
+Drivers can even report traffic incidents using Gemini, and Maps will proactively notify users of disruptions on the route ahead.
+
+Google is also adding a new feature to Maps that combines Gemini with Street View data to improve navigation instructions. So instead of telling you to turn right after, say, 500 feet, Maps will now mention a nearby landmark, like gas stations, restaurants, or famous buildings, and highlight them before you have to make the turn.
+
+The company said that Gemini cross-references information about 250 million places with Street View images to identify important and visible landmarks for navigation.
+
+Maps is also getting the ability to answer questions about your surroundings by working together with Google Lens. So you can point the camera at places of interest, like restaurants and landmarks, and ask questions like, “What is this place and why is it popular?”
+
+Google said the new Gemini navigation features will be rolled out to iOS and Android devices in the coming weeks and said support for Android Auto would be coming soon. Traffic alerts are rolling out in the U.S. for Android users first; Landmark navigation is currently only going to be available in the U.S. on both iOS and Android; and Lens with Gemini will be functional in the U.S. later this month.

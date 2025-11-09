@@ -1,0 +1,14 @@
+Date: 12:37 PM PST · November 5, 2025
+
+Headline: Apple nears deal to pay Google $1B annually to power new Siri, report says
+
+Text Body:
+Apple is nearing a deal with Google that would see the iPhone maker pay the tech giant roughly $1 billion a year for a custom version of Google’s Gemini AI model to power its overhaul of Siri, according to a new report from Bloomberg .
+
+The move is a big one for Apple, which has traditionally relied on its own technology but plans to use Google’s model as a temporary solution until its own AI becomes powerful enough, including to power a slate of upcoming features for the voice assistant.
+
+The custom AI model’s 1.2 trillion parameters — a measure of the software’s complexity and capability — would far exceed the level of Apple’s current models. For context, the current cloud-based version of Apple Intelligence uses 150 billion parameters, meaning Google’s model would be roughly eight times more complex.
+
+Apple had also considered using AI models from OpenAI and Anthropic earlier this year. After testing models from all three companies, Apple chose to move forward with Google .
+
+According to Bloomberg, the overhauled Siri is expected to launch next spring. However, since the launch is still months away, plans for the revamp could change.

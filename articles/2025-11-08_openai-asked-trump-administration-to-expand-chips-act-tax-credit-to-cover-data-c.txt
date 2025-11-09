@@ -1,0 +1,24 @@
+Date: 9:30 AM PST · November 8, 2025
+
+Headline: OpenAI asked Trump administration to expand Chips Act tax credit to cover data centers
+
+Text Body:
+A recent letter from OpenAI reveals more details about how the company is hoping the federal government can support the company’s ambitious plans for data center construction.
+
+The letter — from OpenAI’s chief global affairs officer Chris Lehane and addressed to the White House’s director of science and technology policy Michael Kratsios — argued that the government should consider expanding the Advanced Manufacturing Investment Credit (AMIC) beyond semiconductor fabrication to cover electrical grid components, AI servers, and AI data centers.
+
+The AMIC is a 35% tax credit that was included in the Biden administration’s Chips Act.
+
+“Broadening coverage of the AMIC will lower the effective cost of capital, de-risk early investment, and unlock private capital to help alleviate bottlenecks and accelerate the AI build in the US,” Lehane wrote.
+
+OpenAI’s letter also called for the government to accelerate the permitting and environmental review process for these projects, and to create a strategic reserve of raw materials — such as copper, alumimum, and processed rare earth minerals — needed to build AI infrastructure.
+
+The company first published its letter on October 27, but it didn’t get much press attention until this week, when comments by OpenAI executives prompted broader discussion about what the company wants from the Trump administration.
+
+At a Wall Street Journal event on Wednesday, CFO Sarah Friar said the government should “backstop” OpenAI’s infrastructure loans, though she later posted on LinkedIn that she misspoke:  “OpenAI is not seeking a government backstop for our infrastructure commitments. I used the word ‘backstop’ and it muddied the point.”
+
+CEO Sam Altman also weighed in , writing that OpenAI does not “have or want government guarantees for OpenAI datacenters.”
+
+“We believe that governments should not pick winners or losers, and that taxpayers should not bail out companies that make bad business decisions or otherwise lose in the market,” he wrote, though he said the company had discussed loan guarantees “as part of supporting the buildout of semiconductor fabs in the US.”
+
+In the same post, Altman wrote that the company expects to end 2025 “above $20 billion in annualized revenue run rate and grow to hundreds of billion by 2030,” and he said OpenAI has made $1.4 trillion in capital commitments for the next eight years.

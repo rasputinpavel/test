@@ -1,0 +1,22 @@
+Date: 12:22 PM PST · November 6, 2025
+
+Headline: Amazon launches an AI-powered Kindle Translate service for e-book authors
+
+Text Body:
+Amazon announced on Thursday the launch of Kindle Translate, an AI-powered translation service designed for authors using Kindle Direct Publishing to broaden their reach. The service initially translates text between English and Spanish and from German to English, as it’s still operating in beta. More languages will be supported over time.
+
+The retail giant noted less than 5% of titles on Amazon are available in more than one language, suggesting there’s a big opportunity for AI translations.
+
+Of course, AI isn’t perfect, which means it could introduce errors into the text. To address this, Amazon allows authors to preview their translations before publishing if desired. If the author is not using the service to simply speed up translating their work into another language they speak, this ability to check the AI’s work won’t do them much good; they’d still need a human translator to review the AI output if they wanted to ensure the best accuracy.
+
+(Amazon claims its AI translations are “automatically evaluated for accuracy” before publication, but it doesn’t detail what steps are involved with this part of the process.)
+
+The company says authors can manage and access their translations from the Kindle Direct Publishing portal, where they can choose the languages, set prices, and publish their translated work.
+
+Readers, meanwhile, will see AI-translated works clearly labeled as “Kindle Translate” titles and will be able to preview samples of the translation.
+
+Kindle Translate competes with many other AI-powered translation services and tools on the market, whose pricing can vary and which offer broader support for more languages . There are also open source tools. Some people in the industry criticize the use of AI in this way, saying that human translators are better at capturing nuance — particularly in fiction and other literary works. But AI is improving on this front and will likely continue to get better over time.
+
+At present, Kindle’s translation service is being offered for free, according to Amazon’s announcement , which quotes an early tester who praised this aspect of the service, saying that indie authors have struggled to find a “cost-effective and trustworthy solution.”
+
+Amazon says translations are eligible to be enrolled in other programs, like KDP Select, and are included in its Kindle Unlimited subscription service.

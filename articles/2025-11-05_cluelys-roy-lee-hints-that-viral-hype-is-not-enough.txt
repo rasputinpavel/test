@@ -1,0 +1,24 @@
+Date: 1:21 PM PST · November 5, 2025
+
+Headline: Cluely’s Roy Lee hints that viral hype is not enough
+
+Text Body:
+While Roy Lee, the founder of Cluely, argues that startups should be thinking harder about social media virality, he also admits that brand awareness alone won’t lead to sustained growth.
+
+Cluely burst onto the tech scene in April with rage-bait marketing for a product it claimed would help users “cheat on everything.” Lee first made headlines when he was suspended from Columbia University for building a tool used for cheating on coding job interviews. He channeled that notoriety into Cluely, a startup that claimed to help users “cheat on everything” by delivering undetectable information during online conversations.
+
+In late June, Cluely introduced its enterprise product , which claimed to serve multiple use cases, including helping with sales calls, customer support, and remote tutoring.
+
+But earlier this week, the startup shifted and narrowed its scope when it introduced a new website that calls its product an AI assistant for meetings. The company’s plan now is to “become the best AI note taker, starting with the consumer,” Lee said onstage. As an AI notetaker, Cluely is clearly entering a crowded market but Roy touted functionality such as “sending follow-up emails.”
+
+But he deflected questions on how well sales and retention were going, except to say: “I’ll say we’re doing better than I expected, but it’s not the fastest growing company of all time,” Lee said.
+
+The startup’s ability to grab attention helped it secure a $15 million Series A from Andreessen Horowitz in June. That month, a16z partner Bryan Kim said on the firm’s podcast that he backed Cluely because Lee had figured out how to convert the attention into paying customers.
+
+But four months later, Lee is no longer eager to flaunt his company’s financial metrics. “What I’ve learned is you should never share revenue numbers.”
+
+Lee claimed that there’s no upside to revealing his company’s performance: “If you’re doing well, nobody is going to talk about how well you’re doing, but if you’re doing poorly, then everybody will only talk about how poorly you’re doing.”
+
+However, dozens of founders at fast-growing AI startups have no qualms about publicly revealing their ARR numbers, making the sharing of explosive growth a standard practice amid the AI boom.
+
+Cluely’s experience thus far suggests that when it comes to software, social media attention only goes so far if the company doesn’t have a strong product to keep customers once it intrigues them.

@@ -1,0 +1,20 @@
+Date: 12:56 PM PST · November 7, 2025
+
+Headline: Seven more families are now suing OpenAI over ChatGPT’s role in suicides, delusions
+
+Text Body:
+Seven families filed lawsuits against OpenAI on Thursday, claiming that the company’s GPT-4o model was released prematurely and without effective safeguards. Four of the lawsuits address ChatGPT’s alleged role in family members’ suicides, while the other three claim that ChatGPT reinforced harmful delusions that in some cases resulted in inpatient psychiatric care.
+
+OpenAI released the GPT-4o model in May 2024, when it became the default model for all users. In August, OpenAI launched GPT-5 as the successor to GPT-4o, but these lawsuits particularly concern the 4o model, which had known issues with being overly sycophantic or excessively agreeable, even when users expressed harmful intentions.
+
+“Zane’s death was neither an accident nor a coincidence but rather the foreseeable consequence of OpenAI’s intentional decision to curtail safety testing and rush ChatGPT onto the market,” the lawsuit reads. “This tragedy was not a glitch or an unforeseen edge case — it was the predictable result of [OpenAI’s] deliberate design choices .”
+
+These seven lawsuits build upon the stories told in other recent legal filings , which allege that ChatGPT can encourage suicidal people to act on their plans and inspire dangerous delusions. OpenAI recently released data stating that over one million people talk to ChatGPT about suicide weekly.
+
+In the case of Adam Raine, a 16-year-old who died by suicide, ChatGPT sometimes encouraged him to seek professional help or call a helpline. However, Raine was able to bypass these guardrails by simply telling the chatbot that he was asking about methods of suicide for a fictional story he was writing.
+
+The company claims it is working on making ChatGPT handle these conversations in a safer manner, but for the families who have sued the AI giant, these changes are coming too late.
+
+When Raine’s parents filed a lawsuit against OpenAI in October, the company released a blog post addressing how ChatGPT handles sensitive conversations around mental health.
+
+“Our safeguards work more reliably in common, short exchanges,” the post says . “We have learned over time that these safeguards can sometimes be less reliable in long interactions: as the back-and-forth grows, parts of the model’s safety training may degrade.”

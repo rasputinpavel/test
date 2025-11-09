@@ -1,0 +1,12 @@
+Date: 1:55 PM PST · November 6, 2025
+
+Headline: Laude Institute announces first batch of ‘Slingshots’ AI grants
+
+Text Body:
+On Thursday, the Laude Institute announced its first batch of Slingshots grants , aimed at “advancing the science and practice of artificial intelligence.”
+
+Designed as an accelerator for researchers, the Slingshots program is meant to provide resources that would be unavailable in most academic settings, whether it’s funding, compute power, or product and engineering support. In exchange, the recipients pledge to produce some final work product, whether it’s a startup, an open-source codebase, or another type of artifact.
+
+Others take a fresh approach to a long-established evaluation problem. Formula Code, built by researchers at CalTech and UT Austin, aims to produce an evaluation of AI agents’ ability to optimize existing code, while the Columbia-based BizBench proposes a comprehensive benchmark for “white-collar AI agents.” Other grants explore new structures for reinforcement learning or model compression.
+
+SWE-Bench co-founder John Boda Yang is also part of the cohort, as leader of the new CodeClash project. Inspired by the success of SWE-Bench, CodeClash will assess code through a dynamic competition-based framework, which Yang hopes will make the results more comprehensive.

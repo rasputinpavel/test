@@ -1,0 +1,34 @@
+Date: 9:57 AM PST · November 6, 2025
+
+Headline: Subtle Computing’s voice isolation models help computers understand you in noisy environments
+
+Text Body:
+California-based startup Subtle Computing is tackling the problem of capturing people’s voices in noisy environments with its own voice-isolation models — a technology that could benefit voice-based AI products and services.
+
+Consumer apps using voice AI are today seeing tremendous growth. AI meeting note-takers like Granola , Fireflies , Fathom , and Read AI have received both user and investor attention. Existing companies like OpenAI , ClickUp , and Notion have integrated voice transcription solutions. App makers like Wispr Flow and Willow are working on voice dictation. Then there are hardware companies like Plaud and Sandbar that are using devices as a medium to transcribe your voice, then use AI for insight generation and interaction.
+
+One of the challenges for these companies is capturing users’ voices in any kind of environment, such as loud cafes or offices.
+
+To address this, Subtle Computing developed an end-to-end voice-isolation model that can understand what you are saying even in noisy environments. Chen said that there are a lot of companies working on voice understanding. He noted that at times, device manufacturers send the voice to the cloud to get a clean output, but that’s not efficient.
+
+The startup trains specific models to suit the acoustics of a particular device and adapt to the user’s voice instead of training one model that works across devices.
+
+“What we found is that when we preserve the acoustic characteristics of a device, we get an order of magnitude better performance than generic solutions. This also means we can give personalized solutions to the user,” Chen said.
+
+The company was founded by Tyler Chen, David Harrison, Savannah Cofer, and Jackie Yang, who met at Stanford. Chen, Cofer, and Yang were pursuing their PhDs while Harrison was doing an MBA. They came together in Steve Blank’s Lean Launchpad course, where they worked on alternative interfaces for computing and started building Subtle Computing.
+
+“As we are interacting more with AI, we are moving towards a future where we talk with our devices,” Chen said. “But the obvious question is how much our devices understand us, the users, in all the environments where we work day to day. Be it a super loud coffee shop or a shared office where there are other people around you, and you might be talking about something private — voice doesn’t work that way today,” he added.
+
+The startup said it can run the model just for voice isolation on some devices, which is just a few megabytes in size and has 100 ms of latency. The company can also run a different model to transcribe the voice and give text output for other devices. Chen said thanks to its isolation model, the company’s transcription model can understand users better, and in turn, creates a more accurate transcript.
+
+Subtle Computing said that Qualcomm has selected the startup as a member of its voice and music extension program. This means that the startup’s tech would be compatible with Qualcomm’s chips and be available on devices produced by OEMs.
+
+The company has raised $6 million in seed funding led by Entrada Ventures, with participation from Amplify Partners, Abstract Ventures, and angel investors, including founders like Twitter’s Biz Stone, Pinterest’s Evan Sharp, and Perplexity’s Johnny Ho.
+
+Karen Roter Davis, managing partner at Entrada Ventures and a former director of an early project at X (Alphabet), noted that voice AI is a noisy space, and though interactions through this medium are picking up, the overall voice experience is not great. She thinks that the startup’s focus on voice isolation brings a different perspective to the market.
+
+“While you can debate whether AI will increase or decrease that time spent on a day-to-day basis, we can all agree that advances in compute power and machine learning / AI provide opportunities for voice interface breakthroughs — if done right,” Davis said. “Subtle Computing is meeting people where they are with voice interfaces that hold up in extreme noise and extreme quiet, providing a voice experience that is reliable, easy, and fun. It’s a game changer,” she added.
+
+The company said it has also partnered with a consumer hardware brand and an automotive brand — without naming them — to deploy its solutions. But Subtle Computing doesn’t want to be just a model supplier to other companies.
+
+The startup also said it plans to announce a consumer product that spans both hardware and software next year, without offering details.

@@ -1,0 +1,34 @@
+Date: 9:20 PM PST · November 4, 2025
+
+Headline: Goldman Sachs doubles down on MoEngage in new round to fuel global expansion
+
+Text Body:
+MoEngage , a customer engagement platform that works with consumer brands across 75 countries, says it has raised new funding led by its existing investor, Goldman Sachs Alternatives, to ramp up global growth and infuse more AI into its platform.
+
+All told, $100 million in shares just traded hands, split roughly 60% primary and 40% secondary, as part of MoEngage’s Series F round. The funding marks the entry of Indian venture firm A91 Partners as a new investor co-leading the round with Goldman Sachs Alternatives. According to MoEngage, it has now raised $250 million in funding altogether.
+
+As consumer brands increasingly rely on digital channels to reach customers, competition for attention has intensified. That’s pushed companies to use the customer data they already have to deliver more personalized marketing. While established marketing platforms continue to serve this space, brands are now seeking AI-driven tools that can automate decision-making and reduce manual labor. MoEngage positions itself in this segment with its Merlin AI suite, which helps marketing and product teams launch campaigns faster and improve targeting efficiency.
+
+“We help B2C brands engage more effectively with their customers by leveraging the first-party data they already have,” Raviteja Dodda (pictured above), co-founder and CEO of MoEngage, said in an interview.
+
+Goldman Sachs’ backing in the latest funding will help further bolster MoEngage’s global presence. The investment bank also co-led the startup’s Series E round of $77 million along with B Capital in June 2022.
+
+Over the past two to three years, MoEngage has invested heavily in generative AI and decisioning AI capabilities. These efforts are reflected in its Merlin AI suite, which Dodda said includes a range of AI agents built for marketing use cases.
+
+Some of these agents act like copywriters, helping consumer brands draft marketing messages, create multiple variants of a campaign, or generate text in natural language along with relevant images. The suite also includes decisioning AI tools that help brands determine which customers should receive a particular message or offer, on which channel, and at what time, Dodda said.
+
+MoEngage currently serves over 1,350 consumer brands worldwide, including SoundCloud, McAfee, Kayak, Domino’s, Deutsche Telekom, and Travelodge, as well as prominent Indian household names such as Swiggy, Flipkart, Ola, Airtel, and Tata. About 60% of the company’s business comes from traditional enterprises, while the remaining 40% is from internet-focused firms. The platform also works with more than 25 global banks and several large insurers, including JPMorgan Chase, Citibank, and India’s largest insurer, Life Insurance Corporation (LIC).
+
+Some of these brands previously used marketing platforms from incumbents such as Adobe, Oracle, and Salesforce. MoEngage has since won over more than 300 of them, helping drive growth in North America and the EMEA regions.
+
+In one instance, SoundCloud migrated over 120 million users to MoEngage within 12 weeks, utilizing AI-driven insights to accelerate product launches and enhance retention among its paid users, said Hope Barrett, senior director of martech at SoundCloud.
+
+Several of MoEngage’s customers also relied on multiple point solutions to handle specific tasks. The company helped consolidate those tools into a unified platform to cut costs and streamline marketing operations.
+
+Without disclosing exact figures, Dodda said MoEngage grew about 40% year-over-year last year and aims to maintain a 35% compound annual growth rate (CAGR) over the next three years. The company also expects to become adjusted EBITDA-positive on a quarterly basis by the end of the current fiscal year.
+
+MoEngage sees companies such as Braze and CleverTap, as well as legacy marketing clouds by Adobe, Oracle, and Salesforce, among its key competitors.
+
+The startup has about 800 employees across its 15 offices worldwide. It plans to expand its workforce, particularly in North America and Europe, by scaling its customer success, support, sales, and marketing teams to deepen its presence in those markets. MoEngage also intends to build additional AI capabilities and hire more talent to support that effort.
+
+“We see an opportunity to build a multibillion-dollar revenue company in our space,” he stated.

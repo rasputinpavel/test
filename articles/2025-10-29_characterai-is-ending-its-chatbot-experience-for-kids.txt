@@ -1,0 +1,36 @@
+Date: 6:00 AM PDT · October 29, 2025
+
+Headline: Character.AI is ending its chatbot experience for kids
+
+Text Body:
+Teenagers are trying to figure out where they fit in a world changing faster than any generation before them. They’re bursting with emotions, hyper-stimulated, and chronically online. And now, AI companies have given them chatbots designed to never stop talking. The results have been catastrophic.
+
+One company that understands this fallout is Character.AI, an AI role-playing startup that’s facing lawsuits and public outcry after at least two teenagers died by suicide following prolonged conversations with AI chatbots on its platform. Now, Character.AI is making changes to its platform to protect teenagers and kids, changes that could affect the startup’s bottom line.
+
+Open-ended conversation refers to the unconstrained back-and-forth that happens when users give a chatbot a prompt and it responds with follow-up questions that experts say are designed to keep users engaged. Anand argues this type of interaction — where the AI acts as a conversational partner or friend rather than a creative tool — isn’t just risky for kids, but misaligns with the company’s vision.
+
+The startup is attempting to pivot from “AI companion” to “role-playing platform.” Instead of chatting with an AI friend, teens will use prompts to collaboratively build stories or generate visuals. In other words, the goal is to shift engagement from conversation to creation.
+
+Character.AI will phase out teen chatbot access by November 25, starting with a two-hour daily limit that shrinks progressively until it hits zero. To ensure this ban remains with under 18 users, the platform will deploy an in-house age verification tool that analyzes user behavior, as well as third-party tools like Persona. If those tools fail, Character.AI will use facial recognition and ID checks to verify ages, Anand said.
+
+“It’s safe to assume that a lot of our teen users probably will be disappointed… so we do expect some churn to happen further,” Anand said. “It’s hard to speculate — will all of them fully churn or will some of them move to these new experiences we’ve been building for the last almost seven months now?”
+
+As part of Character.AI’s push to transform the platform from a chat-centric app into a “full-fledged content-driven social platform,” the startup recently launched several new entertainment-focused features.
+
+In June, Character.AI rolled out AvatarFX, a video generation model that transforms images into animated videos; Scenes, interactive, pre-populated storylines where users can step into narratives with their favorite characters; and Streams, a feature that allows dynamic interactions between any two characters. In August, Character.AI launched Community Feed, a social feed where users can share their characters, scenes, videos, and other content they make on the platform.
+
+In a statement addressed to users under 18, Character.AI apologized for the changes.
+
+“We know that most of you use Character.AI to supercharge your creativity in ways that stay within the bounds of our content rules,” the statement reads. “We do not take this step of removing open-ended Character chat lightly — but we do think that it’s the right thing to do given the questions that have been raised about how teens do, and should, interact with this new technology.”
+
+“We’re not shutting down the app for under 18s,” Anand said. “We are only shutting down open-ended chats for under 18s because we hope that under 18 users migrate to these other experiences, and that those experiences get better over time. So doubling down on AI gaming, AI short videos, AI storytelling in general. That’s the big bet we’re making to bring back under 18s if they do churn.”
+
+Anand acknowledged that some teens might flock to other AI platforms, like OpenAI, that allow them to have open-ended conversations with chatbots. OpenAI has also come under fire recently after a teenager took his own life following long conversations with ChatGPT.
+
+“I really hope us leading the way sets a standard in the industry that for under 18s, open-ended chats are probably not the path or the product to offer,” Anand said. “For us, I think the tradeoffs are the right ones to make. I have a six-year-old, and I want to make sure she grows up in a very safe environment with AI in a responsible way.”
+
+Character.AI is making these decisions before regulators force its hand. On Tuesday, Sens. Josh Hawley (R-MO) and Richard Blumenthal (D-CT) said they would introduce legislation to ban AI chatbot companions from being available to minors, following complaints from parents who said the products pushed their children into sexual conversations, self-harm, and suicide. Earlier this month, California became the first state to regulate AI companion chatbots by holding companies accountable if their chatbots fail to meet the law’s safety standards.
+
+In addition to these changes on the platform, Character.AI said it would establish and fund the AI Safety Lab, an independent nonprofit dedicated to innovating safety alignment for the future AI entertainment features.
+
+“A lot of work is happening in the industry on coding and development and other use cases,” Anand said. “We don’t think there’s enough work yet happening on the agentic AI powering entertainment, and safety will be very critical to that.”

@@ -1,0 +1,34 @@
+Date: 5:02 PM PST · November 2, 2025
+
+Headline: Alphabet is increasingly launching ‘moonshot’ projects as independent companies — here’s why
+
+Text Body:
+The strategy hinges on a dedicated venture fund that exists solely to invest in X spinouts, and in which Alphabet is only a minority investor. “If Alphabet was the sole LP, the fund would be inside of Alphabet, and then when they invested in something from X, it would still be inside Alphabet,” Teller explained onstage. “So Alphabet can be a small LP, but if it’s more than a small LP, we undo the thing that we’re trying to accomplish.”
+
+That fund is Series X Capital , which has raised over $500 million and is run by Gideon Yu, a former YouTube executive and Facebook CFO. Bloomberg first reported the fund’s existence last year . Unlike Alphabet’s other investment arms — GV, which invests broadly in early-stage startups; CapitalG, which backs growth-stage companies; and Gradient Ventures, which invests in AI startups — Series X Capital is legally obligated to invest exclusively in companies spinning out of X.
+
+The approach represents a meaningful evolution for X, which has historically graduated successful projects like Waymo and Wing into stand-alone Alphabet subsidiaries. Teller said the lab has learned over the past decade that while some moonshots benefit from Alphabet’s resources and scale, others “can go faster and won’t really benefit from being part of Alphabet because they’re just so different.”
+
+“Landing it just outside the Alphabet membrane, where we can be very tight with them, get a lot of strategic co-benefit with them, but not necessarily control them, makes sense,” he said. At Disrupt, Teller explained that the spinout strategy only works because of X’s approach to intellectual honesty, including a culture that actively celebrates killing off promising ideas.
+
+X defines a moonshot as having three specific components: It must attempt to solve a huge problem in the world, propose some kind of product or service that could make that problem disappear, and leverage breakthrough tech that creates a “glimmer of hope” that the team inside X can solve that problem. Critically, Teller said, “if someone is proposing a moonshot and it sounds reasonable, the company isn’t interested, because that, by definition, wouldn’t be a moonshot.”
+
+What happens to ideas that meet these criteria? X tests them ruthlessly, looking for reasons to kill them, Teller said. “If you propose something and it sounds pretty wild, that has those three components, and it’s a testable hypothesis, for a small amount of money, we can learn something about whether it’s a little bit more crazy than we thought, or a little bit less crazy than we thought,” Teller explained. “If it’s a little bit more crazy than we thought, cool, high five, let’s put a bullet in its head and move on.”
+
+This approach requires detaching people from their ideas, which is why Teller said he doesn’t even know who started most projects at X, including Waymo, the self-driving car company, and Wing, the drone delivery company now dropping off Walmart packages in roughly six U.S. cities. “If we’re going to go exploring something, and you [as the lead inventor] feel like ‘this is my baby,’ what are the chances I get you to practice real intellectual honesty?” he told the Disrupt audience.
+
+In practice, this means X tackles the hardest parts of projects first, actively looking for reasons to shut them down. The result is a brutal 2% hit rate that Teller frames not as failure but as feature. In fact, X has killed off entire categories that once seemed promising, like copywriting AI tools that foundation models eventually absorbed. All that testing and failing can be expensive. The spinout structure solves a practical problem: While X previously had to find outside venture investors willing to take over at least 51% of a business to spin it out of Alphabet, by creating a fund that “deeply understands us,” said Teller, X can systematize the spinout process while maintaining close strategic ties.
+
+Despite the emphasis on detachment from ideas, X employees do have significant skin in the game when projects spin out. “You and the rest of your team are going to get a chunk of that company,” Teller said. “It is about as much as you would have gotten if you had started from your garage at that stage of funding, but without taking any risk in the meantime.”
+
+The pitch to potential X employees is explicit about this trade-off, too. “Your four or five standard deviation upside is going to be bigger on the outside, I’m granting you that,” Teller said at Disrupt. “But if you come to X, what you get to do is be a card counter of innovation with us, with no fear and no financial risk to yourself.”
+
+X employees are paid like other Google employees, with no equity in early-stage projects, because “it isn’t even a company; it’s an idea we’re trying to learn about,” Teller explained. This removes the financial pressure that prevents founders from killing their own ideas. “You can say, ‘Hey, this one’s not pulling our average up, let’s throw this one away,’” Teller explained. “And because you haven’t bet your kids’ college fund on that, that doesn’t scare you.”
+
+X has spun out at least two companies in 2025: Taara, which develops wireless optical communication technology, and Heritable Agriculture, a biotech company using machine learning to accelerate crop breeding. Previous spinouts that raised external funding include Malta (renewable energy storage), Dandelion (geothermal heating), and iyO (AI-powered earbuds).
+
+On the eve of Disrupt, X announced its newest moonshot company: Anori , a “new AI platform to help real estate developers, the architecture and construction industries, and cities untangle the complexities of new building projects,” as it describes itself. Asked onstage about what makes this particular AI platform a “moonshot,” Teller pointed to the size of the problem — and opportunity.
+
+“The built environment is about 25% of the world’s solid waste, [and] about 25% of the world’s [carbon dioxide] output. It’s literally on the Maslow’s hierarchy of needs — it’s where we live, where we spend most of our time. It’s a big chunk of the world’s GDP output. So it would be hard for it to matter more as an industry.”
+
+You can catch our entire conversation with Teller here .

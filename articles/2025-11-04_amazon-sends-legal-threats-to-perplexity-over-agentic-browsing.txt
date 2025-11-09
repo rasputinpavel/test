@@ -1,0 +1,24 @@
+Date: 3:05 PM PST · November 4, 2025
+
+Headline: Amazon sends legal threats to Perplexity over agentic browsing
+
+Text Body:
+“This week, Perplexity received an aggressive legal threat from Amazon, demanding we prohibit Comet users from using their AI assistants on Amazon. This is Amazon’s first legal salvo against an AI company, and it is a threat to all internet users,” Perplexity lamented in the blog post.
+
+Perplexity’s argument is that, since its agent is acting on behalf of a human user’s direction, the agent automatically has the “same permissions” as the human user. The implication is that it doesn’t have to identify itself as an agent.
+
+Amazon’s resp o nse points out that other third-party agents working at the behest of human users do identify themselves. “It is how others operate, including food delivery apps and the restaurants they take orders for, delivery service apps and the stores they shop from, and online travel agencies and the airlines they book tickets with for customers,” Amazon’s statement explains.
+
+If Amazon is to be believed, then Perplexity could simply identify its agent and start shopping. Of course, the risk is that Amazon, which has its own shopping bot called Rufus, could also block Comet — or any other third-party agentic shopper — from its site.
+
+Amazon suggests as much as its statement, which also says, “We think it’s fairly straightforward that third-party applications that offer to make purchases on behalf of customers from other businesses should operate openly and respect service provider decisions whether or not to participate.”
+
+Perplexity claims that Amazon would block the shopping bot because Amazon wants to sell advertising and product placements. Unlike human shoppers, a bot tasked with buying a new laundry basket presumably wouldn’t find itself buying a more expensive one, or getting lured into buying the latest Brandon Sanderson novel and a new set of earphones (on sale!).
+
+If all of this sounds a bit familiar, that’s because it is. A few months ago, Cloudflare published research accusing Perplexity of scraping websites while specifically defying requests from websites blocking AI bots. Interestingly, many people came to Perplexity’s defense that time, because this wasn’t a clear-cut case of web crawler bad behavior. Cloudflare documented how the AI was accessing a specific public website when its user asked about that specific website. Perplexity fans argued that this is exactly what every human-operated web browser does.
+
+On the other hand, Perplexity was using some questionable methods to do that accessing when a website opted out of bots, like hiding its identity.
+
+Perplexity may be right in that Amazon is setting a precedent. As the 800-pound gorilla in e-commerce, it is clearly saying that the way this should work is for an agent to identify itself and let the website decide.
+
+Update: Amazon has now also published its scathing cease and desist letter.

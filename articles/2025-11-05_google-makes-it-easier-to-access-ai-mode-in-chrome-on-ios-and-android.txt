@@ -1,0 +1,18 @@
+Date: 9:00 AM PST · November 5, 2025
+
+Headline: Google makes it easier to access AI Mode in Chrome on iOS and Android
+
+Text Body:
+Google announced on Wednesday that it’s making it easier to access AI Mode on mobile. Users will now be able to access AI Mode, which allows users to ask complex questions and follow-ups to dig deeper on a topic directly within Search, via a new dedicated shortcut button under the search bar when opening a “New Tab” page in Chrome.
+
+The new shortcut for AI Mode in Chrome is launching in the U.S. starting Wednesday and will soon be coming to 160 new countries and other languages, including Hindi, Indonesian, Japanese, Korean, Portuguese, and more.
+
+By making it easier to access AI Mode on mobile, Google likely hopes that people will use its service rather than navigate to competitors’ tools.
+
+The launch of the new shortcut comes as Google recently expanded AI Mode globally, bringing the feature to 180 new countries . The tech giant also made the feature available in more languages , including Hindi, Indonesian, Japanese, Korean, and Brazilian Portuguese.
+
+Google first launched AI Mode in March to take on popular services like Perplexity AI and OpenAI’s ChatGPT Search. Since then, the tech giant has continuously updated the tool with added functionality.
+
+Yesterday, Google launched new agentic capabilities in AI Mode to allow users to get help with booking event tickets and beauty and wellness appointments in AI Mode. Google first introduced agentic capabilities to AI Mode back in August, when it rolled out the ability for people use the feature to find restaurant reservations.
+
+AI Mode launched a Canvas feature in July that helps you build study plans and organize information over multiple sessions in a side panel. It also now lets you use Google Lens to ask about what’s on your desktop screen.

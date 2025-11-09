@@ -1,0 +1,26 @@
+Date: 7:15 AM PST · November 5, 2025
+
+Headline: This startup’s metal stacks could help solve AI’s massive heat problem
+
+Text Body:
+When Nvidia announced its Rubin series of GPUs in March, it also dropped a bomb: Racks built with the Ultra version of the chip, which is expected to be released in 2027, could draw up to 600 kilowatts of electricity. That’s nearly twice as much juice as some of the fastest EV chargers can deliver today.
+
+As data center racks become that power hungry, one of the biggest hurdles will be figuring out how to keep them cool. One startup thinks stacks of metal are the answer.
+
+Alloy Enterprises has developed a technology that turns sheets of copper into solid cooling plates for GPUs and for peripheral chips, the supporting components like memory and networking hardware that account for about 20% of a server’s cooling load.
+
+Alloy’s approach uses additive manufacturing (building objects layer by layer) to produce cold plates that are capable of squeezing into tight spots while withstanding the high pressures that liquid cooling can demand.
+
+But the startup doesn’t use 3D printing. Rather, it takes sheets of metal and forces them to bond using a combination of heat and pressure. It’s more expensive than traditional machining, but cheaper than 3D printing.
+
+The result is a cold plate that, for all intents and purposes, is a single block of metal. There’s no seam, unlike machined products, and it’s solid metal, unlike 3D-printed versions, which can be porous. “We hit raw material properties,” Forsyth said. “The copper is just as strong as if you had machined it.”
+
+Most cold plates are machined, a process that uses tools to carve out features. Because the tools are large, each half of the plate has to be machined separately. The two halves are then sintered together — a process that fuses metal powders using heat — which introduces a seam that could potentially leak under high pressure. Alloy’s process, a type of diffusion bonding it calls “stack forging,” makes seamless cold plates.
+
+Stack forging can also make smaller features, down to 50 microns, about half the width of a human hair, allowing more coolant to flow past the metal. Alloy’s cold plates have 35% better thermal performance than competitors, Forsyth said.
+
+Because of the complexities of stack forging, Alloy does most of the internal design. Customers submit key specifications and dimensions, and the startup’s software helps translate those into a shape that works for the company’s manufacturing process.
+
+Forsyth said her company is working with “all the big names” in the data center world, though she wouldn’t disclose specifics.
+
+Initially, the company had designed the technology to work with a widely used aluminum alloy, but as it received more interest from data centers, it ported the process to work with copper, which conducts heat well and resists corrosion. When Alloy announced the product in June, “things just blew up,” Forsyth said.

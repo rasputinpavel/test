@@ -1,0 +1,28 @@
+Date: 3:56 AM PST · November 6, 2025
+
+Headline: Google Maps upgrades navigation in India with Gemini, safety alerts
+
+Text Body:
+Google is adding Gemini to Maps in India, along with road safety alerts and more information about routes.
+
+The AI integration, launched in the U.S. on Wednesday , brings hands-free AI assistance to Maps, as well as contextual suggestions while navigating and information about places of interest.
+
+Miriam Daniel, vice president and head of Google Maps, said the rollout required significant localization.
+
+“When we say localizing for India, it’s not just the language,” she said at a virtual briefing. “It’s also adapting to how Indians use the product, how Indians will talk, how they will ask for questions, how they will identify places, the geopolitical places, the street names, you know, everything is sort of different in India.”
+
+Gemini in Maps will be available to all Android and iOS users in India in the coming weeks, Google said. At launch, Gemini will support nine Indian languages.
+
+Google is also adding a set of India-specific navigation and commuting updates. Drivers will now get visual and audio alerts when they’re passing accident-prone stretches. Google said it is working on these alerts with local authorities, and the feature will roll out to Android users in Gurugram, the Cyberabad region of Hyderabad, Chandigarh, and Faridabad.
+
+Google has come under scrutiny in India over the reliability of some navigation routes, after a car drove off an unfinished bridge in Uttar Pradesh, killing three men, late last year.
+
+“The real-world conditions can keep changing, and it’s very dynamic, and sometimes it changes in an instant. Maps can’t be accurate 100% of the time,” said Anal Ghosh, senior program manager for Google Maps, when asked about warnings for incomplete roads or unfinished bridges. “So we would encourage users to ensure that they’re keeping their eyes on the road.”
+
+Google said it has partnered with the country’s highways regulator, National Highways Authority of India (NHAI), to receive near real-time data on road closures, diversions, and repair work. The company said the partnership will also allow Maps to show wayside amenities such as public restrooms, restaurants, and fuel stations along national highways.
+
+Other new features include proactive notifications about major disruptions or delays on routes, even when users are not navigating. These alerts are rolling out to Android users for highways and major roads in New Delhi, Mumbai, and Bengaluru.
+
+The app will also display speed limits during navigation, using data from local traffic authorities. This feature is rolling out to Android and iOS users in nine cities: Faridabad, Ghaziabad, Gurugram, Hyderabad (including the Cyberabad region), Jaipur, Kolkata, Lucknow, Mumbai, and Noida.
+
+Building on the flyover navigation feature launched last year, Maps is now getting voice support for flyovers. This feature is rolling out to Android and iOS users over the coming weeks.

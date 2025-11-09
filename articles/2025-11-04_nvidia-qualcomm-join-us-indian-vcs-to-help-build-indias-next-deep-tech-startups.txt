@@ -1,0 +1,42 @@
+Date: 7:30 PM PST · November 4, 2025
+
+Headline: Nvidia, Qualcomm join US, Indian VCs to help build India’s next deep tech startups
+
+Text Body:
+Nvidia and Qualcomm Ventures have joined a growing coalition of U.S. and Indian investors backing India’s deep tech startups. The group launched in September with more than $1 billion in commitments , timing that aligns with India’s new ₹1 trillion (around $12 billion) research and development initiative.
+
+Nvidia has joined the coalition as a strategic technical adviser, without any financial commitments, while Qualcomm Ventures has come on board alongside six Indian venture firms, bringing additional capital commitments totaling more than $850 million.
+
+India is home to more than 180,000 startups and over 120 unicorns. In its early years, much of the ecosystem closely mirrored Western business models before evolving into SaaS companies that serve global clients, especially those in the U.S. In recent years, however, India’s focus has shifted to building ventures that tackle harder, infrastructure-scale problems — from launching satellites and electrifying transportation to designing semiconductors.
+
+The Indian government has sought to accelerate this shift as major economies race to secure technological sovereignty. Yet capital for such ventures remains scarce, as they require a longer gestation period than traditional sectors and most VCs favor proven, lower-risk models.
+
+In September, Silicon Valley- and India-based Celesta Capital spearheaded the launch of the India Deep Tech Alliance (IDTA) to bridge that gap, bringing together seven major U.S. and Indian investors — Accel, Blume Ventures, Premji Invest, Gaja Capital, Ideaspring Capital, Tenacity Ventures, and Venture Catalysts. The latest addition includes Indian venture firms Activate AI, Chiratae Ventures, InfoEdge Ventures, Kalaari Capital, Singularity Holdings, and YourNest Venture Capital.
+
+The coalition aims to invest capital and provide mentorship and network access to Indian deep tech startups over the next five to 10 years. It also plans to collaborate with the Indian government on its policy initiatives, including the recently introduced Research, Development and Innovation (RDI) scheme.
+
+“It’s a coalition of the willing, wanting to support the development of the Indian deep tech ecosystem,” Sriram Viswanathan, founding managing partner of Celesta Capital and founding executive council member of the IDTA, said in an interview.
+
+Approved by the Indian cabinet earlier this year and rolled out by Prime Minister Narendra Modi this week, the ₹1 trillion RDI scheme will fund projects in areas such as energy security and transition, quantum computing, robotics, space tech, biotech, and AI through long-term loans, equity infusions, and allocations to deep tech funds of funds. The venture firms participating in the alliance plan to leverage the initiative to back Indian-domiciled deep tech startups.
+
+The alliance has brought in Nvidia to provide strategic and technical guidance to its members and emerging startups. The U.S. chipmaker — whose market value has surged amid the global boom in AI — will advise on best practices for integrating Nvidia’s AI and accelerated computing platforms, offer technical talks and training through the Nvidia Deep Learning Institute, and contribute to policy dialogues between industry and the government to advance India’s deep tech capabilities, the alliance said in a statement.
+
+Although Nvidia will not participate financially, Vishal Dhupar, Nvidia’s managing director for South Asia, said the company will share technical insights and scalable computing resources with Indian startups in the coalition.
+
+Unlike Nvidia, Qualcomm is joining the alliance with an investment focus. The San Diego–based chipmaker made its first India investment in 2008, with early bets including Google Maps rival MapmyIndia, which went public in late 2021. Qualcomm and Celesta also backed Indian drone maker IdeaForge, which has been a publicly listed company since 2023.
+
+“If you are like-minded and other VCs have allocated a certain portion of their resources, dollars, time, and network, it helps each other and then collectively to work with the government, to be aligned with what the government is thinking on certain areas; whether it is quantum, semiconductors, AI, or emerging technologies, it is very important to be part of that group,” he said.
+
+That said, the success of the IDTA remains to be seen. Viswanathan described the alliance as a “loose coalition of the willing,” noting that participating investors continue to run their own programs.
+
+“We’re collaborating to share knowledge, to share deal flow, and all of that,” he said when asked about the progress since the alliance’s launch in September.
+
+It is also unclear how much of the capital each participant will contribute.
+
+“We’re just collectively estimating what the total commitment is to this ecosystem,” Viswanathan said. “This alliance is not a fund. There’s no obligation, no allocation, if you will, of any deal. If Rama finds a deal, he will do it. If Rama finds it appropriate to bring in other investors, he’ll share the deal with other investors that he thinks are relevant for that investment.”
+
+India’s deep tech funding rose 78% year-over-year to $1.6 billion in 2024, according to a report by IT industry body Nasscom and global consulting firm Zinnov released in April. While the growth is promising, the capital raised still trails far behind that in developed markets, especially the U.S.
+
+The alliance may help increase that figure, but more importantly, it is expected to draw global attention — and, in turn, more investors and corporate venture funds — to India’s startup ecosystem.
+
+“What we need are role models to begin with,” said Bethmangalkar. “People are going to jump in. Entrepreneurs are going to get the confidence capital … In ten years, you’ll start seeing these as the companies listed on the main boards of our exchanges — deeply science- and tech-oriented firms.”

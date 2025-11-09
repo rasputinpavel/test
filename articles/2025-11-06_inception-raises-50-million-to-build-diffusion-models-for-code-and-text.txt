@@ -1,0 +1,22 @@
+Date: 5:00 AM PST · November 6, 2025
+
+Headline: Inception raises $50 million to build diffusion models for code and text
+
+Text Body:
+With so much money flooding into AI startups, it’s a good time to be an AI researcher with an idea to test out. And if the idea is novel enough, it might be easier to get the resources you need as an independent company instead of inside one of the big labs.
+
+That’s the story of Inception , a startup developing diffusion-based AI models that just raised $50 million in seed funding . The round was led by Menlo Ventures, with participation from Mayfield, Innovation Endeavors, Microsoft’s M12 fund, Snowflake Ventures, Databricks Investment, and Nvidia’s venture arm NVentures. Andrew Ng and Andrej Karpathy provided additional angel funding.
+
+The leader of the project is Stanford professor Stefano Ermon, whose research focuses on diffusion models — which generate outputs through iterative refinement rather than word-by-word. These models power image-based AI systems like Stable Diffusion, Midjourney, and Sora. Having worked on those systems since before the AI boom made them exciting, Ermon is using Inception to apply the same models to a broader range of tasks.
+
+Together with the funding, the company released a new version of its Mercury model, designed for software development. Mercury has already been integrated into a number of development tools, including ProxyAI, Buildglare, and Kilo Code. Most importantly, Ermon says the diffusion approach will help Inception’s models conserve on two of the most important metrics: latency (response time) and compute cost.
+
+“These diffusion-based LLMs are much faster and much more efficient than what everybody else is building today,” Ermon says. “It’s just a completely different approach where there is a lot of innovation that can still be brought to the table.”
+
+Understanding the technical difference requires a bit of background. Diffusion models are structurally different from auto-regression models, which dominate text-based AI services. Auto-regression models like GPT-5 and Gemini work sequentially, predicting each next word or word fragment based on the previously processed material. Diffusion models, trained for image generation, take a more holistic approach, modifying the overall structure of a response incrementally until it matches the desired result.
+
+The conventional wisdom is to use auto-regression models for text applications, and that approach has been hugely successful for recent generations of AI models. But a growing body of research suggests diffusion models may perform better when a model is processing large quantities of text or managing data constraints . As Ermon tells it, those qualities become a real advantage when performing operations over large codebases.
+
+Diffusion models also have more flexibility in how they utilize hardware, a particularly important advantage as the infrastructure demands of AI become clear. Where auto-regression models have to execute operations one after another, diffusion models can process many operations simultaneously, allowing for significantly lower latency in complex tasks.
+
+“We’ve been benchmarked at over 1,000 tokens per second, which is way higher than anything that’s possible using the existing autoregressive technologies,” Ermon says, “because our thing is built to be parallel. It’s built to be really, really fast.”

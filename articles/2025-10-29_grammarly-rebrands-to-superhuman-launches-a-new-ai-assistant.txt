@@ -1,0 +1,20 @@
+Date: 6:00 AM PDT · October 29, 2025
+
+Headline: Grammarly rebrands to ‘Superhuman,’ launches a new AI assistant
+
+Text Body:
+Typically, when a company acquires another, it will absorb the new company’s branding or integrate it with its own identity. Grammarly is doing something different: After acquiring email client Superhuman in July , the company is renaming itself “Superhuman.”
+
+Despite the branding change, Grammarly, the product, will continue to be known as it has. However, the company says it is thinking about rebranding products like Coda, a productivity platform it acquired last year , in the long run.
+
+The company is also launching an AI assistant called Superhuman Go that’s built into Grammarly’s existing extension. The assistant can provide writing suggestions, give feedback on emails, and you can even connect it with other apps like Jira, Gmail, Google Drive, and Google Calendar to arm it with more context. The assistant can use these connections to do tasks like logging tickets or fetching your availability when you’re scheduling a meeting.
+
+Superhuman said it plans to add functionality to enable the assistant to fetch data from sources like CRMs and internal systems to suggest changes to your emails.
+
+Users can try Superhuman Go by turning on a toggle in the Grammarly extension, which will let them connect it to different apps. Users can also try out different agents in the company’s agent store, which include a plagiarism checker and a proofreader , launched in August.
+
+All Grammarly users can try out Superhuman Go right now, though the company is also selling product bundles. Its Pro subscription plan will cost $12 per month (billed annually) and will enable grammar and tone support in multiple languages. The Business plan will cost $33 per month (billed annually) and will give users access to Superhuman Mail.
+
+Superhuman said it also wants to add more AI-powered features to the Coda document suite and Superhuman email clients, such as fetching details from external and internal sources to create additional details in documents and email drafts automatically.
+
+Grammarly has for the past few years made a concerted effort to increase its viability as a productivity suite, exemplified through its acquisitions of Coda and Superhuman. With this AI assistant, the company is positioning itself to compete better with the likes of Notion , ClickUp , and Google Workspace, which have launched multiple AI-powered features in the past few years.

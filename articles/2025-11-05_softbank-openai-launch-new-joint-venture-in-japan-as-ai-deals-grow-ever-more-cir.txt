@@ -1,0 +1,18 @@
+Date: 6:22 AM PST · November 5, 2025
+
+Headline: SoftBank, OpenAI launch new joint venture in Japan as AI deals grow ever more circular
+
+Text Body:
+If you look at how AI deals are conducted these days, it seems AI companies and their investors are imitating the circle of life. Only, it’s a circle of profit that ensures the money eventually comes back to their own coffers.
+
+Case in point: SoftBank, which is investing tens of billions into OpenAI and committing dozens more to build AI data centers and infrastructure, just launched a joint venture with the ChatGPT maker in Japan that will localize and sell the AI company’s enterprise tech to companies in the country. And the first customer of this joint venture is going to be SoftBank itself.
+
+Called SB OAI Japan, the joint venture will be owned 50-50 by SoftBank and OpenAI and will provide what the companies are calling “Crystal intelligence,” which is being defined as a “packaged enterprise AI solution” targeted at corporate management and operations in Japan.
+
+“Crystal intelligence is designed to help organizations enhance productivity and management efficiency through the adoption of advanced AI tools. The solution combines OpenAI’s enterprise offerings with localized implementation and support provided through SB OAI Japan,” SoftBank said in a statement .
+
+It seems SoftBank is intent on fueling the AI hype cycle and the resultant revenues: The conglomerate said all its employees are “actively utilizing AI in their daily operations,” and that it has so far created 2.5 million custom ChatGPT instances for internal use.
+
+The conglomerate said it would put the joint venture’s solutions to use throughout its various businesses, validate their effectiveness for product development and “business transformation,” and then pass on the insights and expertise it gains to other companies back through SB OAI Japan.
+
+The joint venture comes as analysts raise concerns about the truckloads of cash being thrown at AI development and associated efforts, as well as the stratospheric valuations awarded to companies benefiting from it. The movement is being likened to the dot-com boom, when the widespread adoption of the internet resulted in a wave of venture capital and sky-high valuations, and similar booms over the past couple of decades where massive sums were spent on developing unproven business models without a clear sign of meaningful returns on investment.

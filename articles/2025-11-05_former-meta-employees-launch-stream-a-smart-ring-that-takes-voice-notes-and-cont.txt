@@ -1,0 +1,32 @@
+Date: 3:00 AM PST · November 5, 2025
+
+Headline: Former Meta employees launch Stream, a smart ring that takes voice notes and controls music
+
+Text Body:
+A raft of voice-based hardware devices have emerged, aimed at companionship, productivity, or personal growth. These include card-shaped devices from Plaud and Pocket ; pendants from Friend , Limitless , and Taya ; and a wristband from Bee , which is now part of Amazon.
+
+Now, two former Meta employees who worked on interface design have launched Sandbar , a startup that has created a ring called Stream for similar purposes. The company calls the ring “a mouse for voice” because it can take notes, help you interact with an AI assistant, and let you control music.
+
+Sandbar’s CEO, Mina Fahmi, has an extensive background in designing human-computer interfaces. He worked at Bryan Johnson’s Kernel and later at smart glasses startup Magic Leap. Kirak Hong, Sandbar’s CTO, worked at Google before joining CTRL-Labs, where the duo met. Meta acquired the startup in 2019, and its work eventually led to neural interfaces for the tech giant’s smart wearables.
+
+Fahmi said that when large language models started emerging a few years ago, he built an experimental journaling app. However, he found that the app became a barrier to capturing his thoughts. Given his experience building hardware interfaces, he began exploring a conversational hardware interface instead.
+
+The ring, designed to be worn on your dominant hand’s index finger, has microphones and a touch pad.
+
+In a virtual demo, Fahmi wore the Stream ring on his index finger and recorded his thoughts by pressing and holding the touchpad. By default, the microphone is off, activating only with this gesture. The microphone proved sensitive enough to pick up whispers and transcribe them in the companion iOS app. Other apps like Wispr Flow and Willow similarly allow people to capture their thoughts quietly.
+
+Stream’s app includes an AI chatbot that converses with you as you record your thoughts. You can organize these into separate notes that either you or the AI can edit. The app also lets you pinch to zoom out and review what you have discussed over days or weeks. Sandbar has added a personalization layer so the assistant’s voice sounds somewhat similar to the user’s.
+
+Beyond voice functions, the ring’s flat surface doubles as a media controller, allowing you to play, pause, skip tracks, and adjust volume. While many headphones offer similar controls, the ring could prove useful when your hands are occupied or when you’re in transit.
+
+The company is opening up preorders for Stream on Wednesday at $249 for the silver version and $299 for gold. Sandbar aims to begin shipping next summer. A Pro subscription tier — free for three months for those who preorder, then $10 per month — offers unlimited chats, notes, and early access to new features.
+
+Fahmi said the company gives users full control over their data at any tier, with encryption both at rest and in transit. He added that Sandbar doesn’t believe in walled gardens and plans to support data exports to apps like Notion.
+
+Sandbar has raised $13 million in funding from True Ventures, Upfront Ventures, and Betaworks.
+
+Toni Schneider, a partner at True Ventures, said he had been skeptical of AI devices, as demos he’d seen before Stream weren’t impressive.
+
+Competition is fierce in the voice-AI hardware space, with many builders exploring rings as a form factor . Fahmi said he doesn’t want Stream to be an assistant or a companion, but rather an interface for users to express their ideas while maintaining full control.
+
+AI hardware has yet to achieve mainstream success. Humane sold to HP, Rabbit is attempting to improve user experience and engagement through software updates , and Friend is trying to leverage user backlash to fuel growth. Sandbar will need to prove that its ring form factor offers genuine convenience and value that pendants, pins, or wristbands cannot.

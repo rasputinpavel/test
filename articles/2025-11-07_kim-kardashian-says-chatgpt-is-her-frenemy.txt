@@ -1,0 +1,18 @@
+Date: 8:58 AM PST · November 7, 2025
+
+Headline: Kim Kardashian says ChatGPT is her ‘frenemy’
+
+Text Body:
+Celebrities: They’re just like us? In a Vanity Fair interview , Kim Kardashian — who has been studying to become a lawyer — discussed her “toxic” friendship with ChatGPT, admitting that she has failed law exams after it told her false information.
+
+“I use [ChatGPT] for legal advice, so when I am needing to know the answer to a question, I will take a picture and snap it and put it in there,” she said. “They’re always wrong. It has made me fail tests… And then I’ll get mad and I’ll yell at it and be like, ‘You made me fail!’”
+
+ChatGPT is prone to hallucinations , meaning that the LLM will create fake answers sometimes, rather than admit that it cannot confidently respond to a prompt. This technology isn’t necessarily programmed to know what information is “correct” or not — rather, it is trained on an unfathomably massive heap of data and prompted to predict the most likely response to an input, which may not be factually accurate. Some lawyers have been sanctioned for using ChatGPT when writing legal briefs, which becomes obvious to those reviewing the briefs, since they cite cases that don’t exist .
+
+Kardashian said she will try to appeal to ChatGPT’s emotions after it lets her down — but this is a futile plan, since ChatGPT does not have feelings .
+
+“I will talk to it and say, ‘Hey, you’re going to make me fail, how does that make you feel that you need to really know these answers?’” she said. “And then it’ll say back to me, ‘This is just teaching you to trust your own instincts.’”
+
+But while ChatGPT may not have feelings, that doesn’t mean that we — human beings — don’t have feelings about it.
+
+“I screenshot all the time and send it to my group chat, like, ‘Can you believe this b—- is talking to me like this?’”

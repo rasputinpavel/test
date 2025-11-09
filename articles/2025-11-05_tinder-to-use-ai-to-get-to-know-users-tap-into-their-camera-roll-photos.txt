@@ -1,0 +1,24 @@
+Date: 10:22 AM PST · November 5, 2025
+
+Headline: Tinder to use AI to get to know users, tap into their Camera Roll photos
+
+Text Body:
+The feature is already being piloted in New Zealand and Australia and will be a “major pillar of Tinder’s upcoming 2026 product experience,” said Match Group CEO Spencer Rascoff.
+
+Match isn’t alone in requesting access to users’ private Camera Roll photos. Meta also launched a feature last month that asks to use its AI on photos on your phone that you haven’t yet shared in order to suggest AI edits.
+
+In both cases, the benefits to the end user for permitting this kind of expanded access are negligible.
+
+In Match’s case, the company says it will engage users with interactive questions and learn more about them using AI technology so it can recommend better, more compatible matches. Presumably, that would look something like this: If you had photos of yourself outside hiking or climbing, you might be matched with someone who shared the same outdoor hobbies.
+
+While the company experiments with Tinder, Match’s bottom line is taking a hit.
+
+Its fourth-quarter guidance includes a $14 million negative impact on Tinder’s direct revenue as a result of the product testing, Match said. This, alongside other dating industry trends, has pulled down Match’s Q4 guidance to land somewhere between $865 million and $875 million, while analysts were expecting $884.2 million.
+
+The company is using AI in other areas as well, including in an LLM-powered system where Tinder nudges users before they send potentially offensive messages, asking them, “Are you sure?” It also uses AI to help users pick their best photos.
+
+Despite the product changes, Tinder faces a tough market where some young people are leaning away from online dating in favor of more real-world experiences , while online daters in the U.S. may be spending less due to their disposable income shrinking as the country flirts with recession .
+
+Match reported in Q3 that Tinder’s revenue declined 3% year-over-year, and it saw a 7% decline in paying users.
+
+Overall, Match’s revenue and earnings were largely in line with estimates, with revenue up 2% to $914.2 million, versus an expected $915 million, and EPS of 62 cents (profit of $160.8 million), versus an expected 63 cents.

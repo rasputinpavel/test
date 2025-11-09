@@ -1,0 +1,22 @@
+Date: 1:18 PM PST · November 6, 2025
+
+Headline: Sam Altman says OpenAI has $20B ARR and about $1.4 trillion in data center commitments
+
+Text Body:
+Rarely has a month gone by in 2025 without OpenAI signing another multibillion-dollar data center deal. In a lengthy post on X on Thursday, OpenAI CEO Sam Altman publicly clarified the totals.
+
+“We expect to end this year above $20 billion in annualized revenue run rate and grow to hundreds of billion by 2030. We are looking at commitments of about $1.4 trillion over the next 8 years,” he wrote.
+
+While the post was largely a response to a brouhaha over comments his CFO made, and quickly walked back, concerning government-backstopped loans , Altman also listed a number of future business plans he believes will generate significant revenue.
+
+He said OpenAI has an upcoming enterprise offering. Earlier this week, OpenAI said it already had a million business customers .
+
+He named consumer devices and robotics. In May, OpenAI acquired Jony Ive’s io , and they are reportedly working on a palm-sized AI device.
+
+Altman mentioned scientific discovery as an upcoming business. Not much is known about it yet, except that OpenAI VP Kevin Weil mentioned a newly launched OpenAI for Science some months ago.
+
+Altman also said OpenAI could become a cloud computing provider: “We are also looking at ways to more directly sell compute capacity to other companies (and people); we are pretty sure the world is going to need a lot of ‘AI cloud’, and we are excited to offer this.”
+
+That’s a bold idea for a company that doesn’t yet have its own network of data centers.
+
+Beyond revenue, Altman noted that the company may also pay for its needs the old-fashioned way: selling more equity or taking on more loans.

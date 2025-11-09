@@ -1,0 +1,26 @@
+Date: 11:00 AM PST · November 5, 2025
+
+Headline: Pinterest CEO touts open source AI: ‘tremendous performance’ with reduced costs
+
+Text Body:
+On an earnings call on Tuesday, Pinterest CEO Bill Ready highlighted the promise of open source AI models in helping the company keep its costs down as it expands the use cases for visual AI.
+
+The image pinboarding site, which often serves as consumers’ first step in their shopping journey, leverages AI technology to power a variety of features, including its personalized recommendations, a multimodal search experience that combines text and images, ad targeting, and, most recently, product discovery with the launch of its AI-powered Pinterest Assistant.
+
+However, investors wanted to know what Pinterest’s opportunity in agentic commerce — AI systems that can act autonomously on behalf of users — was given the rapidly changing AI landscape and how that could impact its bottom line and growth potential.
+
+That question has become more pressing. During the company’s third-quarter earnings announcement, it predicted a weaker holiday shopping season than expected, citing President Donald Trump’s tariffs and their negative impact on the home furnishings category. As a result, Pinterest’s fourth-quarter revenue is expected to come in between $1.31 billion and $1.34 billion, while analysts were estimating $1.34 billion, on average. The news sent the stock tumbling by more than 21% on Wednesday.
+
+Despite the near-term revenue concerns, Ready pointed to ways the business could maximize its use of AI and LLMs (large language models), without dramatically increasing its costs. In addition to its own proprietary models that are already accounted for in its cost structure, Ready said the company tests leading off-the-shelf models against open source options on a regular basis and found the open source models promising.
+
+“One of the really, really interesting things that we’re seeing is that we are just getting tremendous performance from open source models specifically for Pinterest use cases on visual AI,” Ready told investors. “Given current market rates and per token costs, in early testing, we’re seeing orders of magnitude reduction in cost with comparable performance using fine-tuned open source models versus leading off-the-shelf proprietary models.”
+
+He said the company planned to move forward with many open source models for its various use cases, which would come at “a fraction of the cost” of the larger model providers.
+
+“We feel really good about the value that we’re bringing to the user there, our ability to align that with monetization, and our ability to control those costs and deliver that effectively,” said Ready.
+
+The exec also touched on other areas where Pinterest is considering how to best use AI, including agentic shopping. Ready said that Pinterest already offers “push-button type buying” via its Amazon partnership, and it will wait to see if users actually want the AI to “push the button for them.”
+
+In the meantime, Ready suggested that Pinterest’s biggest differentiator is that it guides the user through the shopping experience — something it hopes to improve with Pinterest Assistant, an AI companion users can talk to, asking for advice and recommendations. The assistant understands the user based on their boards, collages, saves, and how they compare to people with similar tastes, the company says.
+
+Pinterest is also rolling out personalized boards curated with AI , which Ready said combine expert human curation and AI.

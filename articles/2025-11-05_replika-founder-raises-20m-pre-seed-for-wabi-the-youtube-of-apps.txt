@@ -1,0 +1,48 @@
+Date: 9:01 AM PST · November 5, 2025
+
+Headline: Replika founder raises $20M pre-seed for Wabi, the ‘YouTube of apps’
+
+Text Body:
+Eugenia Kuyda saw the future of consumer AI before most. She founded Replika, the first major AI companion startup, in 2017 — years before ChatGPT launched. Today, it has 35 million users.
+
+Now Kuyda is back with a new startup called Wabi, which she describes as YouTube for apps — a social platform where anyone can use prompts to instantly create mini apps and share them with friends. Wabi, which launched in beta last month, is a harbinger of another consumer AI shift: one where personalized software becomes the norm.
+
+Wabi has raised $20 million in pre-seed funding from a stellar list of angels, including AngelList co-founder Naval Ravikant, Y Combinator CEO Garry Tan, Twitch co-founder Justin Kan, Replit CEO Amjad Masad, Notion co-founder Akshay Kothari, Neuralink co-founder DJ Seo, Array Ventures founder Shruti Gandhi, and Conviction founder Sarah Guo.
+
+Kuyda is entering a hot market. Vibe-coding tools like Cursor and Lovable have attracted significant VC interest, while no-code AI platforms, including Emergent, Replit, and Bloom, are racing to let non-technical users build apps through prompts. Wabi’s difference: an integrated platform for creation, discovery, and hosting — no app store required.
+
+Earlier this week, Wabi released certain social features to beta users — things like the ability to like, comment, and remix any existing app, as well as check out user profiles to see what others liked, used, or built.
+
+X has been blowing up about Wabi since it started dishing out invites to select users. Several founders , designers , and investors from around the world have posted about Wabi’s ease of creating apps for themselves. Even Google DeepMind product lead Logan Kilpatrick gave Wabi a shout-out .
+
+what if the app store was social? with wabi, it is. introducing the social app store where you can instantly see what apps your friends are creating, loving, and remixing pic.twitter.com/tfjltyZApv
+
+“We believe that the social layer is absolutely critical because it allows for so much more creativity and discovery, and these mini apps become community starters or conversation starters,” Kuyda said.
+
+Wabi’s Explore page currently features recent and popular apps, though Kuyda said it will become more algorithmic over time. The startup plans to launch personalized onboarding in the coming weeks, automatically generating starter apps for new users.
+
+Creating a basic app is simple. However, you might need to debug the app to avoid errors, which is to be expected in a development life cycle.
+
+For example, we created an app that showed us a dog picture every day with a dog fact. After a few days of usage, we realized the app was generating the same set of dogs. When we saw another user’s daily news app, all the dates mentioned on the summary photos were October 1, 2023, while the news items were a few weeks old. Plus, one of the sources for news was, oddly, Wikipedia.
+
+The onus is on the user to have an interest in maintaining the apps. Otherwise, you might find a lot of unmanaged mini apps in the discovery section of these vibe-coding apps.
+
+Kuyda says it’s still early days for Wabi, and they’re still working out how to ensure that apps are ready to go out of the box. She noted that there are still model constraints that are improving every day. She says a big chunk of the $20 million will go toward building out Wabi’s product team.
+
+Part of the funding is also going toward effectively subsidizing the use of Wabi until the startup figures out a monetization model. Kuyda says she’s not interested in hosting ads on the platform, which leads to incentives that create dark patterns.
+
+“I built Replika and never had any ads,” she said. “I think ads just create a pretty bad user experience. I like creating delightful user experiences.”
+
+Acharya believes that once the network effects take off, it will be easy to monetize. He sees a future where there’s a professionalization element that will happen on the platform, where many of the kids today who want to be TikTok stars might instead make software on Wabi.
+
+“You think about the history of YouTube, it started out as people putting these shaky, low-budget content experiences,” he said. “Now, 20 years later, it’s super high production value.”
+
+Acharya added that there’s even more opportunity with software because “video content has decaying value over time,” he said. “Software has compounding value.” If somebody builds the next hit app, it’ll continue to be relevant over the course of time.
+
+The idea fits neatly into Acharya’s thesis on the future of “disposable software” — small, flexible apps that people can create and discard as easily as opening a new tab or having a quick chat with ChatGPT.
+
+“I think software is the final frontier of participation,” Acharya said. “The internet has been this driving force for participation … where anyone can post their thoughts. It’s kind of strange that the internet is obviously all software, yet so few people have been able to make it.”
+
+So what does a web3 look like when everyone can build and share software within a few minutes?
+
+“It feels like the internet has gotten sort of clinical — we’re all using the same Instagram, the same TikTok, we all have the same home screens, apps have gotten pretty monotone,” he said. “I think the opportunity with Wabi is it’s going to restore some of that punk, strange, early ’90s web ethos.”
