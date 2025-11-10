@@ -149,6 +149,83 @@ python3 scripts/fetch_articles_batch.py scripts/filtered_links.txt my_articles/
 
 **Note:** Requires `beautifulsoup4` library. Install with: `pip install beautifulsoup4`
 
+## 📰 fetch_and_store_articles.py
+
+Fetches articles from a source URL (default: TechCrunch AI category), filters them by pattern, and stores new articles in a SQLite database. Automatically sends new articles to a Telegram channel if configured.
+
+### Usage:
+
+```bash
+# Fetch articles with default settings
+python3 scripts/fetch_and_store_articles.py
+
+# Custom URL and pattern
+python3 scripts/fetch_and_store_articles.py --url https://techcrunch.com/category/ai/ --pattern '*/2024/*'
+
+# Custom database path
+python3 scripts/fetch_and_store_articles.py --db-path my_articles.db
+```
+
+### Features:
+
+- Extracts links from HTML pages
+- Filters links by glob pattern (e.g., `*/2025/*` for 2025 articles)
+- Stores articles in SQLite database (prevents duplicates)
+- Automatically sends new articles to Telegram channel
+- Provides detailed progress and summary statistics
+
+### Telegram Integration:
+
+To enable Telegram notifications, add to your `.env` file:
+
+```
+TELEGRAM_BOT_TOKEN=your_bot_token_here
+CHANNEL_ID=@your_channel_name
+```
+
+**Note:** Requires `beautifulsoup4`, `requests`, and `python-dotenv` libraries.
+
+## 📤 send_to_telegram.py
+
+Standalone script to send article notifications to a Telegram channel. Can be used independently or imported by other scripts.
+
+### Usage:
+
+```bash
+# Send with headline and URL
+python3 scripts/send_to_telegram.py "Article Title" "https://example.com/article"
+
+# Send with all fields
+python3 scripts/send_to_telegram.py "Article Title" "https://example.com/article" "2025-01-15" "Article preview text..."
+
+# Send from file (headline on line 1, URL on line 2, date on line 3, body on line 4+)
+python3 scripts/send_to_telegram.py --file article.txt
+```
+
+### As a Python Module:
+
+```python
+from scripts.send_to_telegram import send_to_telegram
+
+send_to_telegram(
+    headline="Article Title",
+    url="https://example.com/article",
+    date="2025-01-15",
+    body_preview="Article preview text..."
+)
+```
+
+### Environment Variables:
+
+Add to your `.env` file:
+
+```
+TELEGRAM_BOT_TOKEN=your_bot_token_here
+CHANNEL_ID=@your_channel_name
+```
+
+**Note:** Requires `requests` and `python-dotenv` libraries.
+
 ## Ideas for other scripts:
 
 * `calculate_bmi.py` - body mass index calculation
