@@ -226,6 +226,100 @@ CHANNEL_ID=@your_channel_name
 
 **Note:** Requires `requests` and `python-dotenv` libraries.
 
+## ⏰ daily_news_scheduler.py
+
+Automated daily scheduler that runs `fetch_and_store_articles` every day at 7:00 AM Bangkok time (configurable). Automatically fetches new articles, stores them in the database, and sends unpublished articles to Telegram.
+
+### Usage:
+
+```bash
+# Run once immediately (for testing)
+python3 scripts/daily_news_scheduler.py --once
+
+# Run as daemon (schedules daily at 7:00 AM Bangkok time)
+python3 scripts/daily_news_scheduler.py
+
+# Run with custom time
+python3 scripts/daily_news_scheduler.py --time "08:00"
+
+# Run with custom database path
+python3 scripts/daily_news_scheduler.py --db-path scripts/articles.db
+```
+
+### Features:
+
+- **Automatic scheduling**: Runs daily at specified time (default: 7:00 AM Bangkok time)
+- **Timezone aware**: Handles Bangkok timezone (UTC+7) correctly
+- **Automatic processing**: 
+  - Fetches new articles from source
+  - Stores them in database (as "Unpublished")
+  - Sends unpublished articles to Telegram
+  - Marks sent articles as "Published"
+- **Rate limit handling**: Automatically handles Telegram API rate limits
+- **Error handling**: Continues running even if individual articles fail
+
+### Running as a Service:
+
+**On macOS/Linux with systemd:**
+```bash
+# Create a systemd service file
+sudo nano /etc/systemd/system/daily-news.service
+```
+
+Add:
+```ini
+[Unit]
+Description=Daily News Scheduler
+After=network.target
+
+[Service]
+Type=simple
+User=your_username
+WorkingDirectory=/path/to/workspace
+ExecStart=/usr/bin/python3 /path/to/workspace/scripts/daily_news_scheduler.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
+```
+
+Then:
+```bash
+sudo systemctl enable daily-news.service
+sudo systemctl start daily-news.service
+```
+
+**On macOS with launchd:**
+Create `~/Library/LaunchAgents/com.dailynews.plist`:
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.dailynews</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/usr/bin/python3</string>
+        <string>/path/to/workspace/scripts/daily_news_scheduler.py</string>
+    </array>
+    <key>WorkingDirectory</key>
+    <string>/path/to/workspace</string>
+    <key>RunAtLoad</key>
+    <true/>
+    <key>KeepAlive</key>
+    <true/>
+</dict>
+</plist>
+```
+
+Then:
+```bash
+launchctl load ~/Library/LaunchAgents/com.dailynews.plist
+```
+
+**Note:** Requires `schedule` and `pytz` libraries. Install with: `pip install schedule pytz`
+
 ## Ideas for other scripts:
 
 * `calculate_bmi.py` - body mass index calculation

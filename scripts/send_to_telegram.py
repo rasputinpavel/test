@@ -22,7 +22,14 @@ from pathlib import Path
 # Load environment variables from .env file if it exists
 try:
     from dotenv import load_dotenv
-    load_dotenv()
+    # Try to load .env from script directory first, then current directory
+    script_dir = Path(__file__).parent
+    env_file = script_dir / '.env'
+    if env_file.exists():
+        load_dotenv(env_file)
+    else:
+        # Try current directory
+        load_dotenv()
 except ImportError:
     pass  # python-dotenv not installed, use system environment variables
 
@@ -53,14 +60,16 @@ def send_to_telegram(headline, url, date='', body_preview=''):
         return False
     
     bot_token = os.getenv('TELEGRAM_BOT_TOKEN')
-    channel_id = os.getenv('CHANNEL_ID')
+    # Try both uppercase and lowercase versions
+    channel_id = os.getenv('CHANNEL_ID') or os.getenv('channel_id') or os.getenv('TELEGRAM_CHANNEL_ID') or os.getenv('TELEGRAM_CHAT_ID')
     
     if not bot_token:
         print("❌ Error: TELEGRAM_BOT_TOKEN not found in environment variables", file=sys.stderr)
         return False
     
     if not channel_id:
-        print("❌ Error: CHANNEL_ID not found in environment variables", file=sys.stderr)
+        print("❌ Error: CHANNEL_ID (or channel_id) not found in environment variables", file=sys.stderr)
+        print("   💡 Tip: Make sure .env file has CHANNEL_ID or channel_id", file=sys.stderr)
         return False
     
     # Format message

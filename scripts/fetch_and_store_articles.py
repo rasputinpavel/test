@@ -27,7 +27,14 @@ from pathlib import Path
 # Load environment variables from .env file if it exists
 try:
     from dotenv import load_dotenv
-    load_dotenv()
+    # Try to load .env from script directory first, then current directory
+    script_dir = Path(__file__).parent
+    env_file = script_dir / '.env'
+    if env_file.exists():
+        load_dotenv(env_file)
+    else:
+        # Try current directory
+        load_dotenv()
 except ImportError:
     pass  # python-dotenv not installed, use system environment variables
 
@@ -43,6 +50,7 @@ from fetch_html_text import fetch_html_text
 # Try to import requests for Telegram
 try:
     import requests
+    import time  # For rate limit delays
     TELEGRAM_AVAILABLE = True
 except ImportError:
     TELEGRAM_AVAILABLE = False
@@ -204,9 +212,15 @@ def send_to_telegram(headline, url, date='', body_preview=''):
         return False
     
     bot_token = os.getenv('TELEGRAM_BOT_TOKEN')
-    channel_id = os.getenv('CHANNEL_ID')
+    # Try both uppercase and lowercase versions
+    channel_id = os.getenv('CHANNEL_ID') or os.getenv('channel_id') or os.getenv('TELEGRAM_CHANNEL_ID') or os.getenv('TELEGRAM_CHAT_ID')
     
     if not bot_token or not channel_id:
+        if not bot_token:
+            print(f"   ⚠️  TELEGRAM_BOT_TOKEN not found in environment", file=sys.stderr)
+        if not channel_id:
+            print(f"   ⚠️  CHANNEL_ID (or channel_id) not found in environment", file=sys.stderr)
+            print(f"   💡 Tip: Make sure .env file has CHANNEL_ID or channel_id (case-sensitive)", file=sys.stderr)
         return False
     
     # Format message
@@ -269,6 +283,23 @@ def send_to_telegram(headline, url, date='', body_preview=''):
         response = requests.post(api_url, json=payload, timeout=10)
         response.raise_for_status()
         return True
+    except requests.exceptions.HTTPError as e:
+        if e.response.status_code == 429:
+            # Rate limit - wait and retry
+            retry_after = int(e.response.headers.get('Retry-After', 60))
+            print(f"   ⚠️  Telegram rate limit hit. Waiting {retry_after} seconds...", file=sys.stderr)
+            time.sleep(retry_after)
+            # Retry once
+            try:
+                response = requests.post(api_url, json=payload, timeout=10)
+                response.raise_for_status()
+                return True
+            except:
+                print(f"   ⚠️  Telegram error after retry: {str(e)}", file=sys.stderr)
+                return False
+        else:
+            print(f"   ⚠️  Telegram HTTP error: {str(e)}", file=sys.stderr)
+            return False
     except Exception as e:
         print(f"   ⚠️  Telegram error: {str(e)}", file=sys.stderr)
         return False
